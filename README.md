@@ -3,8 +3,7 @@
 #### Posted by glydeck 9/7/2024
 -----------------------------------------------
 ### Screen Shot
-![Screen Shot](./screenShot.png)
-<img src="./screenShot.png" width="500">
+<img src="./screenShot.png" width="600">
 
 ### Introduction
 This is a simple javascript clock that uses javascript to render the time as an analog clock. This clock uses no bit mapped images.  All the graphic elements are rendered using CSS and SVG files.  This allows the clock to be small and completly self contained.
