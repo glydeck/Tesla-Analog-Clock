@@ -10,6 +10,8 @@ This is a simple javascript clock that uses javascript to render the time as an 
 
 I originally intended to use this clock by acessing the web in my Tesla S car.  Since I wrote this the funtionality of the Tesla browser has been downgraded so that the web cannot be accesed while the car is in motion.
 
+- [**See it Work**](http://glydeck.com/TeslaClock/index.html)
+
 ### Requirements
 The only requirements is an Internet web browser.  The clock seems to work with all browsers that I have tried.
 
